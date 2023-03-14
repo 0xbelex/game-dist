@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkBELE"]=self["webpackChunkBELE"]||[]).push([[917],{6774:function(e,a,t){t.r(a),a["default"]={zhCN:{_tabbar:{pirates:"拼船",island:"夺岛",fleet:"舰队",bele:"贝利",nft:"收藏",vault:"金库"},pirates:{TheCrazyPirates:"疯狂海盗团"}}}}}]);
