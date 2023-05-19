@@ -1,1 +1,0 @@
-"use strict";(self["webpackChunkvant_base"]=self["webpackChunkvant_base"]||[]).push([[17],{2949:function(e,n,t){t.r(n),t.d(n,{default:function(){return v}});var a=t(311);const r=(0,a.createElementVNode)("span",null,"vault",-1),u=[r];function c(e,n){return(0,a.openBlock)(),(0,a.createElementBlock)("div",null,u)}var l=t(3744);const s={},o=(0,l.Z)(s,[["render",c]]);var v=o}}]);
